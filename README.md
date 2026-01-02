@@ -15,8 +15,8 @@
 * **Date Stamping:** Automatically tracks when a job status was last updated.
 * **Responsive Design:** Works on desktop and mobile.
 
-## Demo
-*(Screenshot placeholder)*
+## Video Showcase:
+
 
 ## Local Setup
 To run this project, you will need **two terminal windows** (one for the backend, one for the frontend).
@@ -25,7 +25,7 @@ To run this project, you will need **two terminal windows** (one for the backend
 ```bash
 cd server
 npm install
-
+```
 # Create a .env file in the /server folder and add:
 # MONGO_URI=your_mongodb_connection_string
 # PORT=5001
@@ -38,6 +38,7 @@ npm run dev
 cd client
 npm install
 npm run dev
+```
 # App runs on http://localhost:5173
 
 ## End note, What i did:
