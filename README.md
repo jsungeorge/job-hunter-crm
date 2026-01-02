@@ -15,8 +15,11 @@
 * **Date Stamping:** Automatically tracks when a job status was last updated.
 * **Responsive Design:** Works on desktop and mobile.
 
-## Video Showcase:
+## Demo Image:
+<img width="1047" height="712" alt="Screenshot 2026-01-02 at 2 39 46 AM" src="https://github.com/user-attachments/assets/8e21ee31-be82-4af0-ac7d-ddd88c89ed6c" />
 
+## Video Showcase:
+https://imgur.com/fqeqpdv
 
 ## Local Setup
 To run this project, you will need **two terminal windows** (one for the backend, one for the frontend).
@@ -46,6 +49,7 @@ npm run dev
 What i did:
 * Designing a RESTful API with **Express** and **Mongoose**.
 * Managing global state in **React** to reflect real-time database changes.
+
 * Handling **CORS** policies between client and server.
 * Structuring a **Monorepo** with separate concern layers.
 
