@@ -3,6 +3,7 @@
 > A full-stack MERN application to track job applications, visualize hiring pipelines, and organize application links in one dashboard.
 
 ## Tech Stack
+* **Languages:** JavaScript ES6+, HTML5, CSS3
 * **Frontend:** React.js, Vite, Axios
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB Atlas (Cloud)
